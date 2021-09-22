@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866963829875",
+    "project_id": "rn-contacts-app-ecfa1",
+    "storage_bucket": "rn-contacts-app-ecfa1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866963829875:android:82a00ef222f2225319e606",
+        "android_client_info": {
+          "package_name": "com.mytsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866963829875-6pr6lihooai39a5e8nt2ifdlvu2m9la8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAil6-4PxkPRJiJ7oRY2lazm07oBsw-bWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866963829875-6pr6lihooai39a5e8nt2ifdlvu2m9la8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
